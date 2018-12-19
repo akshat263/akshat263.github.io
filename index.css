@@ -1,23 +1,19 @@
 body
 {
+  background-color: yellow;
   font-family: "Trebuchet MS", Helvetica, sans-serif;
-  font-size: 20px;
   border: 1px solid black;
-  outline-style: ridge;
+  outline-style: groove;
   outline-color: red;
 }
 
-div.h1
+.h1
 {
   text-align: center;
 }
 
-div.s1
+.s1
 {
+  font-size: 66 px;
   color: green;
-}
-
-body
-{
-  background-color: blue;
 }
