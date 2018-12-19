@@ -7,6 +7,13 @@ body
   outline-color: red;
 }
 
+.headerClass
+{
+  text-align: center;
+  font-size: 20px;
+  color: green;
+}
+
 .h3
 {
   text-align: center;
@@ -14,6 +21,6 @@ body
 
 .s1
 {
-  font-size: 66 px;
-  color: green;
+  font-size: 16px;
+  color: blue;
 }
