@@ -11,6 +11,16 @@ body
 #profPicOfMe
 {
   border: 2px solid black;
+  border-radius: 50%;
+  /*vertical-align: middle;*/
+  width: 300px;
+  height: 240px;
+}
+
+#utahPic
+{
+  width: 200px;
+  height: 275px;
 }
 
 #saadiPic
@@ -93,11 +103,11 @@ body
 
 .openButton
 {
-  font-size: 20px;
+  font-size: 15px;
   cursor: pointer;
-  background-color: #111;
+  background-color: black;
   color: white;
-  padding: 10px 15px;
+  padding: 6px 10px;
   border: none;
 }
 
